@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/qsxKt49y3vMaE6k2D3ccFxFF1Bq0VmrzTCqETkag6QQ9U8f+CAdhxP8KxAhhaTVKACaePxd27soFd1uZvElQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shelb\\Desktop\\GCIT\\SIT771\\week05\\task5_4c\\code\\RobotDodge\\RobotDodge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shelb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\shelb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\shelb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\shelb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
